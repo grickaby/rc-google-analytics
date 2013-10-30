@@ -1,6 +1,7 @@
 RC Google Analytics
-A WordPress plugin for Google Analytics
 =================
+A WordPress plugin for Google Analytics
+
 Plugin Name: rc-google-analytics
 
 Version: 1.0
